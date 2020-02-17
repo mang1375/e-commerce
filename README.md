@@ -29,3 +29,14 @@ https://www.syte.ai/recommendation-engines/?utm_source=google&utm_medium=text-ad
 ***
 ### 여러 솔루션 비교 사이트
 https://bestpersonalizationservices.com/top-ecommerce-recommender-systems/
+1. Dynamic Yield
+2. Qubit
+3. Sentient AI
+4. Evergage
+5. Monetate
+6. Certona
+***
+###롯정통알리도
+- 소비자 패턴 분석
+- 빅데이터
+- 
