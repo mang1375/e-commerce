@@ -13,11 +13,19 @@ https://www.mobiinside.co.kr/2019/09/25/big-collective-intelligence/
 ***
 ### 레코벨
 ### : 국내 1등
+https://www.recobell.com/m21.php
 * 빅데이터, 인공지능 개인화 추천 서비스
 * 사이트에 유입된 개별 고객들의 행동 이력 분석
 * 과거 이력 및 최근 관심사에 기반 하여 구매 확률이 높은 상품 추천
 * 고객이탈을 막고 지속적인 상품 클릭을 유도하여 구매로 연결
 * --> 이미 롯데면세점에서 사용하고 있음
-* https://www.recobell.com/m21.php
 ***
-### 
+### SYTE
+### 구글 검색 최상단
+https://www.syte.ai/recommendation-engines/?utm_source=google&utm_medium=text-ad&utm_campaign=visual-search&utm_term=recommendation-engines&gclid=EAIaIQobChMIrO_AmpbY5wIVxLWWCh2-ZgbwEAAYASAAEgJiLPD_BwE
+* 시각적 분석
+* 내가 좋아하는 상품과 시각적으로 비슷한 상품을 추천
+* 소셜 미디어를 통해 상품을 분석해 함꼐 매치할 상품도 추천
+***
+### 여러 솔루션 비교 사이트
+https://bestpersonalizationservices.com/top-ecommerce-recommender-systems/
