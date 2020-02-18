@@ -39,4 +39,4 @@ https://bestpersonalizationservices.com/top-ecommerce-recommender-systems/
 ###롯정통알리도
 - 소비자 패턴 분석
 - 빅데이터
-- 
+- 123
