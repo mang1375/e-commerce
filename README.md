@@ -36,7 +36,7 @@ https://bestpersonalizationservices.com/top-ecommerce-recommender-systems/
 5. Monetate
 6. Certona
 ***
-###롯정통알리도
+### 롯정통알리도
 - 소비자 패턴 분석
 - 빅데이터
-- 123
+- AI
